@@ -1,1 +1,1 @@
-# prime-numbers.py
+# python
